@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sudoku-solver/static/css/main.2fd985e5.chunk.css",
+    "main.js": "/sudoku-solver/static/js/main.3c64eb7b.chunk.js",
+    "main.js.map": "/sudoku-solver/static/js/main.3c64eb7b.chunk.js.map",
+    "runtime-main.js": "/sudoku-solver/static/js/runtime-main.fc8d7866.js",
+    "runtime-main.js.map": "/sudoku-solver/static/js/runtime-main.fc8d7866.js.map",
+    "static/css/2.3cbb4fb0.chunk.css": "/sudoku-solver/static/css/2.3cbb4fb0.chunk.css",
+    "static/js/2.bd266129.chunk.js": "/sudoku-solver/static/js/2.bd266129.chunk.js",
+    "static/js/2.bd266129.chunk.js.map": "/sudoku-solver/static/js/2.bd266129.chunk.js.map",
+    "index.html": "/sudoku-solver/index.html",
+    "precache-manifest.7a9d6f8632f8bf37c5e4e02b2896bafb.js": "/sudoku-solver/precache-manifest.7a9d6f8632f8bf37c5e4e02b2896bafb.js",
+    "service-worker.js": "/sudoku-solver/service-worker.js",
+    "static/css/2.3cbb4fb0.chunk.css.map": "/sudoku-solver/static/css/2.3cbb4fb0.chunk.css.map",
+    "static/css/main.2fd985e5.chunk.css.map": "/sudoku-solver/static/css/main.2fd985e5.chunk.css.map",
+    "static/js/2.bd266129.chunk.js.LICENSE.txt": "/sudoku-solver/static/js/2.bd266129.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sudoku-solver/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8d7866.js",
+    "static/css/2.3cbb4fb0.chunk.css",
+    "static/js/2.bd266129.chunk.js",
+    "static/css/main.2fd985e5.chunk.css",
+    "static/js/main.3c64eb7b.chunk.js"
+  ]
+}
