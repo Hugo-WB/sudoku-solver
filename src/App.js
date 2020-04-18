@@ -42,12 +42,11 @@ export default class App extends Component {
     return sudoku
   }
   solveBoard(){
+    // slow solve the board using back track algorith 
     const [steps,timeTaken] = solve(this.state.values)
     if(steps === []){
       return
     }
-    console.log(steps)
-    // console.log(timeTaken)
     this.setState({
       solverStats:{
         moves:steps.length,
@@ -76,6 +75,7 @@ export default class App extends Component {
     }, 1000);
   }
   imediateSolve(){
+    //quick solve the board
     const [steps,timeTaken,board] = solve(this.state.values)
     if(steps === []){
       return
@@ -91,6 +91,7 @@ export default class App extends Component {
     })
   }
   fetchNewSudoku(){
+    // import new sudoku board from sugoku api
     clearInterval(loop)
     this.setState({
       isLoading:true,
